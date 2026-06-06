@@ -13,21 +13,29 @@ Kapsam
 Sorumluluklar
 
 - Yönetim: güvenlik kaynaklarını sağlamak ve politikayı onaylamak.
+
 - Bilgi güvenliği birimi: politika uygulaması, denetim ve sürekli iyileştirme.
+
 - Çalışanlar: güvenlik kurallarına uymak ve şüpheli olayları bildirmek.
 
 Teknik ve Operasyonel Önlemler
 
 - Erişim Kontrolleri: en az ayrıcalık ilkesi, güçlü parola ve çok faktörlü kimlik doğrulama önerilir.
+
 - Şifreleme: veri taşıma ve hassas veri depolama için uygun şifreleme kullanılır.
+
 - Ağ Güvenliği: güvenlik duvarları, IDS/IPS ve segmentasyon uygulanır.
+
 - Yazılım Güvenliği: düzenli güncelleme/patching ve güvenlik testleri yapılır.
+
 - Yedekleme ve Kurtarma: kritik verilerin düzenli yedekleri tutulur ve kurtarma prosedürleri test edilir.
+
 - Kayıt ve İzleme: sistem ve güvenlik olayları merkezi logfile/monitoring çözümünde tutulur.
 
 Güvenlik İhlali Yönetimi
 
 - İhlal tespiti halinde; tanımlama, sınırlama, giderme, kurtarma ve olay sonrası inceleme adımları izlenir.
+
 - İlgili paydaşlar ve gerekirse yetkili merciler bilgilendirilir.
 
 Üçüncü Taraf Risk Yönetimi

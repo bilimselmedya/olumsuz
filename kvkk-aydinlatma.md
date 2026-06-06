@@ -5,6 +5,7 @@ Yürürlük tarihi: 2026-06-06
 Veri Sorumlusu
 
 - Veri Sorumlusu: Bilim Haritası Kurumu / Hazzed
+
 - İletişim: [bilimharitasi@hotmail.com](mailto:bilimharitasi@hotmail.com)
 
 İşleme Amaçları

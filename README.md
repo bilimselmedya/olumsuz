@@ -5,8 +5,11 @@ Kısa: Bu depo, Rasch/IRT tabanlı bir Eğitim İçgörüsü Motoru (EIM) protot
 Hızlı bağlantılar
 
 - Yenilikler: [YENILIKLER.md](YENILIKLER.md)
+
 - Güncelleme paketi: [UPDATE-2026-06-06.md](UPDATE-2026-06-06.md)
+
 - Changelog: [CHANGELOG.md](CHANGELOG.md)
+
 - Politika dosyaları: [gizlilik-politikasi.md](gizlilik-politikasi.md), [guvenlik-politikasi.md](guvenlik-politikasi.md), [kvkk-aydinlatma.md](kvkk-aydinlatma.md), [hizmet-sartlari.md](hizmet-sartlari.md)
 
 Hızlı başlangıç
