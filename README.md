@@ -1,6 +1,5 @@
 # Olumsuz — Eğitim İçgörü Prototipi
 
-
 Kısa: Bu depo, Rasch/IRT tabanlı bir Eğitim İçgörüsü Motoru (EIM) prototipi içerir ve eğitim deneyimini kişiselleştirmek için temel araçlar sağlar.
 
 Hızlı bağlantılar
