@@ -44,10 +44,10 @@ Geliştirme yol haritası
 
 1. Bu basit IRT prototipini çalıştırın (`train_irt.py`).
 
-2. Gerçek verilerle IRT'yi doğrulayın, ardından DKT/AKT prototipi ekleyin.
+1. Gerçek verilerle IRT'yi doğrulayın, ardından DKT/AKT prototipi ekleyin.
 
-3. Öneri katmanını (EIG veya contextual bandit) entegre edin.
+1. Öneri katmanını (EIG veya contextual bandit) entegre edin.
 
-4. LLM entegrasyonu ve otomatik değerlendirme eklensin.
+1. LLM entegrasyonu ve otomatik değerlendirme eklensin.
 
 Not: Aşağıdaki dosyalar demo amaçlı basit, eğitim amaçlı referans olarak eklendi.
