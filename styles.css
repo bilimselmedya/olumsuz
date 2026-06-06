@@ -1,0 +1,7 @@
+body { font-family: Segoe UI, Roboto, Arial, sans-serif; margin: 24px; color:#222 }
+header h1 { margin:0 0 8px 0 }
+main { margin-top:16px }
+#startBtn { padding:10px 14px; background:#0366d6; color:white; border:none; border-radius:6px }
+#output { margin-top:12px; padding:12px; border:1px solid #eee; border-radius:6px; background:#fafafa }
+footer { margin-top:24px; font-size:90% }
+a { color:#0366d6 }
