@@ -19,7 +19,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-1. Model eğitimi (örnek):
+2. Model eğitimi (örnek):
 
 ```powershell
 python train_irt.py
