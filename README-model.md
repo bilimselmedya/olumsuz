@@ -16,7 +16,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-2. Eğitimi çalıştırın:
+1. Eğitimi çalıştırın:
 
 ```powershell
 python train_irt.py
